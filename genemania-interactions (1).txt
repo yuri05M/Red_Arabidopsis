@@ -1,0 +1,189 @@
+Gene 1	Gene 2	Weight	Network group	Network
+CYP707A3	ERF105	0.016649047	Co-expression	Kram-Carter-2009
+RAP2-4	HVA22D	0.011303811	Co-expression	Kram-Carter-2009
+ERF1A	RAP2-13	0.017156811	Co-expression	Kram-Carter-2009
+ERF6	ERF105	0.012299265	Co-expression	Kram-Carter-2009
+ERF6	CYP707A3	0.013045389	Co-expression	Kram-Carter-2009
+ERF6	ERF1A	0.020639777	Co-expression	Schmid-Lohmann-2003 B
+RAP2-13	DREB2D	0.00933688	Co-expression	Bassel-Cutler-2008-Dormant Seed Expression
+ERF12	RAP2-13	0.011675581	Co-expression	Bassel-Cutler-2008-Dormant Seed Expression
+ERF6	ERF105	0.008309167	Co-expression	Bassel-Cutler-2008-Dormant Seed Expression
+ERF6	CYP707A3	0.0066441684	Co-expression	Bassel-Cutler-2008-Dormant Seed Expression
+anac032	HVA22D	0.0077887517	Co-expression	Nozue-Maloof-2011
+HVA22D	HDG1	0.010782971	Co-expression	Bassel-Cutler-2008-Germinating Seed Expression
+anac032	DREB2D	0.009180198	Co-expression	Bassel-Cutler-2008-Germinating Seed Expression
+RAP2-4	ANL2	0.022838794	Co-expression	Bassel-Cutler-2008-Germinating Seed Expression
+ERF12	AGL67	0.008163351	Co-expression	Bassel-Cutler-2008-Germinating Seed Expression
+ERF6	RAP2-13	0.0110872695	Co-expression	Bassel-Cutler-2008-Germinating Seed Expression
+HDG1	ANL2	0.017138164	Co-expression	Dinneny-Benfey-2008 D
+ERF096	DREB2D	0.016330164	Co-expression	Dinneny-Benfey-2008 D
+ERF12	anac032	0.0067018503	Co-expression	Dinneny-Benfey-2008 D
+ERF6	RAP2-13	0.0055090655	Co-expression	Dinneny-Benfey-2008 D
+ERF6	CYP707A3	0.0054584835	Co-expression	Dinneny-Benfey-2008 D
+ERF6	ERF1A	0.0046813064	Co-expression	Dinneny-Benfey-2008 D
+RAP2-13	DREB2D	0.0111798	Co-expression	Goda-Shimada-2008 B
+ERF105	DREB2D	0.008494353	Co-expression	Goda-Shimada-2008 B
+ERF105	RAP2-13	0.009239835	Co-expression	Goda-Shimada-2008 B
+AHL29	HDG1	0.015778918	Co-expression	Goda-Shimada-2008 B
+CYP707A3	RAP2-13	0.009230436	Co-expression	Goda-Shimada-2008 B
+CYP707A3	ERF105	0.0071771727	Co-expression	Goda-Shimada-2008 B
+SSRP1	BPM3	0.006058638	Co-expression	Goda-Shimada-2008 B
+ERF6	ERF105	0.008030319	Co-expression	Goda-Shimada-2008 B
+RAP2-4	RAP2-13	0.0126181785	Co-expression	Queval-Noctor-2012
+ERF022	DREB2D	0.012399007	Co-expression	Queval-Noctor-2012
+ERF6	ERF105	0.015935518	Co-expression	Queval-Noctor-2012
+AGL67	DREB2D	0.004730213	Co-expression	Zuber-Gallardo-2010 A
+ERF1A	ERF105	0.010347637	Co-expression	Zuber-Gallardo-2010 A
+ERF12	AGL67	0.0071904575	Co-expression	Pandey-Albert-2010
+ERF1A	ERF105	0.013483532	Co-expression	Pandey-Albert-2010
+ERF6	ERF1A	0.013800353	Co-expression	Pandey-Albert-2010
+anac032	HVA22D	0.012012252	Co-expression	Goda-Shimada-2008 A
+ERF096	DREB2D	0.019143622	Co-expression	Goda-Shimada-2008 A
+CYP707A3	RAP2-13	0.01862567	Co-expression	Mirabella-Schuurink-2015
+ERF022	RAP2-13	0.013530107	Co-expression	Mirabella-Schuurink-2015
+ERF022	ERF105	0.010474189	Co-expression	Mirabella-Schuurink-2015
+BPM1	RAP2-13	0.009780182	Co-expression	Gifford-Birnbaum-2008
+SEC	BPM1	0.00786085	Co-expression	Gifford-Birnbaum-2008
+CYP707A3	RAP2-13	0.00574967	Co-expression	Gifford-Birnbaum-2008
+anac032	ERF105	0.012629636	Co-expression	Gifford-Birnbaum-2008
+RAP2-4	RAP2-13	0.010352096	Co-expression	Gifford-Birnbaum-2008
+ERF1A	RAP2-13	0.004000975	Co-expression	Gifford-Birnbaum-2008
+ERF1A	SEC	0.0030839166	Co-expression	Gifford-Birnbaum-2008
+ERF1A	CYP707A3	0.0027682134	Co-expression	Gifford-Birnbaum-2008
+ERF1A	anac032	0.0047061415	Co-expression	Gifford-Birnbaum-2008
+ERF1A	RAP2-4	0.0048076618	Co-expression	Gifford-Birnbaum-2008
+ERF6	RAP2-13	0.0071951123	Co-expression	Gifford-Birnbaum-2008
+ERF6	ERF105	0.008628891	Co-expression	Gifford-Birnbaum-2008
+ERF6	CYP707A3	0.0050866003	Co-expression	Gifford-Birnbaum-2008
+ERF6	ERF1A	0.003474041	Co-expression	Gifford-Birnbaum-2008
+anac032	HVA22D	0.008645175	Co-expression	Deeken-Hedrich-2006 A
+RAP2-4	RAP2-13	0.016408574	Co-expression	Deeken-Hedrich-2006 A
+HDG1	ANL2	0.017226206	Co-expression	Malitsky-Aharoni-2008
+CYP707A3	ERF105	0.008263992	Co-expression	Malitsky-Aharoni-2008
+CYP707A3	RAP2-13	0.01093403	Co-expression	Moreno-Risueno-Benfey-2015
+CYP707A3	ERF105	0.014369809	Co-expression	Moreno-Risueno-Benfey-2015
+ERF1A	anac032	0.007985167	Co-expression	Moreno-Risueno-Benfey-2015
+ERF6	ERF1A	0.011076323	Co-expression	Moreno-Risueno-Benfey-2015
+CYP707A3	RAP2-13	0.018495105	Co-expression	Schmid-Lohmann-2003 A
+CYP707A3	RAP2-13	0.01553925	Co-expression	Sozzani-Benfey-2010
+RAP2-4	RAP2-13	0.012802921	Co-expression	Sozzani-Benfey-2010
+ERF022	AGL67	0.012857766	Co-expression	Sozzani-Benfey-2010
+ERF6	ERF1A	0.007667921	Co-expression	Sozzani-Benfey-2010
+SEC	HVA22D	0.011513474	Co-localization	Brady-Benfey-2007
+AHL29	ANL2	0.012246807	Co-localization	Brady-Benfey-2007
+CYP707A3	ERF105	0.013145923	Co-localization	Brady-Benfey-2007
+ERF6	ERF1A	0.016387034	Co-localization	Brady-Benfey-2007
+BPM3	RAP2-13	0.2821954	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+BPM1	RAP2-13	0.18010268	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+BPM1	BPM3	0.069286406	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+AHL29	RAP2-13	0.055183563	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+HVA22D	RAP2-13	0.14390112	Physical Interactions	Lumba-McCourt-2014
+AT5G48240	RAP2-13	0.10793154	Physical Interactions	Lumba-McCourt-2014
+anac032	RAP2-13	0.080940686	Physical Interactions	Lumba-McCourt-2014
+BPM3	RAP2-13	0.13896833	Physical Interactions	IREF-INTACT
+BPM1	RAP2-13	0.29811248	Physical Interactions	IREF-INTACT
+BPM1	BPM3	0.03101955	Physical Interactions	IREF-INTACT
+RAP2-4	BPM3	0.043057717	Physical Interactions	IREF-INTACT
+RAP2-4	BPM1	0.09236668	Physical Interactions	IREF-INTACT
+BPM3	RAP2-13	0.22943774	Physical Interactions	IREF-SMALL-SCALE-STUDIES
+BPM1	RAP2-13	0.15536775	Physical Interactions	IREF-SMALL-SCALE-STUDIES
+BPM1	BPM3	0.045553368	Physical Interactions	IREF-SMALL-SCALE-STUDIES
+AHL29	RAP2-13	0.056016404	Physical Interactions	IREF-SMALL-SCALE-STUDIES
+RAP2-4	BPM3	0.096569054	Physical Interactions	IREF-SMALL-SCALE-STUDIES
+RAP2-4	BPM1	0.06539341	Physical Interactions	IREF-SMALL-SCALE-STUDIES
+NFYA3	AGL67	0.08909394	Predicted	Lee-Rhee-2010 Protein interactions human2arabidopsis
+ANL2	AGL67	0.089502215	Predicted	Lee-Rhee-2010 Protein interactions human2arabidopsis
+HDG1	AGL67	0.087125085	Predicted	Lee-Rhee-2010 Protein interactions human2arabidopsis
+SEC	AGL67	0.06442554	Predicted	Lee-Rhee-2010 Protein interactions human2arabidopsis
+SSRP1	AGL67	0.051322944	Predicted	Lee-Rhee-2010 Protein interactions human2arabidopsis
+RAP74	AGL67	0.032828607	Predicted	Lee-Rhee-2010 Protein interactions human2arabidopsis
+RAP74	SSRP1	0.004622387	Predicted	Lee-Rhee-2010 Protein interactions human2arabidopsis
+RAP74	SSRP1	0.015570754	Predicted	Lee-Rhee-2010 Co-citation yeast2arabidopsis
+NFYA3	AGL67	0.10807245	Predicted	Lee-Rhee-2010 AraNet
+ANL2	AGL67	0.08022232	Predicted	Lee-Rhee-2010 AraNet
+HDG1	AGL67	0.08138515	Predicted	Lee-Rhee-2010 AraNet
+ERF105	RAP2-13	0.31071654	Predicted	Lee-Rhee-2010 AraNet
+SEC	AGL67	0.059607793	Predicted	Lee-Rhee-2010 AraNet
+CYP707A3	RAP2-13	0.18118061	Predicted	Lee-Rhee-2010 AraNet
+CYP707A3	ERF105	0.033835158	Predicted	Lee-Rhee-2010 AraNet
+SSRP1	AGL67	0.026151044	Predicted	Lee-Rhee-2010 AraNet
+RAP74	AGL67	0.03018053	Predicted	Lee-Rhee-2010 AraNet
+RAP74	SSRP1	0.0025306277	Predicted	Lee-Rhee-2010 AraNet
+ERF6	ERF105	0.024289109	Predicted	Lee-Rhee-2010 AraNet
+ERF6	CYP707A3	0.009967337	Predicted	Lee-Rhee-2010 AraNet
+RAP2-13	DREB2D	0.007352941	Shared protein domains	PFAM
+BPM1	BPM3	0.014496045	Shared protein domains	PFAM
+HDG1	ANL2	0.0145883	Shared protein domains	PFAM
+ERF105	DREB2D	0.007352941	Shared protein domains	PFAM
+ERF105	RAP2-13	0.007352941	Shared protein domains	PFAM
+RAP2-4	DREB2D	0.007352941	Shared protein domains	PFAM
+RAP2-4	RAP2-13	0.007352941	Shared protein domains	PFAM
+RAP2-4	ERF105	0.007352941	Shared protein domains	PFAM
+ERF022	DREB2D	0.007352941	Shared protein domains	PFAM
+ERF022	RAP2-13	0.007352941	Shared protein domains	PFAM
+ERF022	ERF105	0.007352941	Shared protein domains	PFAM
+ERF022	RAP2-4	0.007352941	Shared protein domains	PFAM
+ERF096	DREB2D	0.007352941	Shared protein domains	PFAM
+ERF096	RAP2-13	0.007352941	Shared protein domains	PFAM
+ERF096	ERF105	0.007352941	Shared protein domains	PFAM
+ERF096	RAP2-4	0.007352941	Shared protein domains	PFAM
+ERF096	ERF022	0.007352941	Shared protein domains	PFAM
+ERF12	DREB2D	0.007352941	Shared protein domains	PFAM
+ERF12	RAP2-13	0.007352941	Shared protein domains	PFAM
+ERF12	ERF105	0.007352941	Shared protein domains	PFAM
+ERF12	RAP2-4	0.007352941	Shared protein domains	PFAM
+ERF12	ERF022	0.007352941	Shared protein domains	PFAM
+ERF12	ERF096	0.007352941	Shared protein domains	PFAM
+ERF1A	DREB2D	0.007352941	Shared protein domains	PFAM
+ERF1A	RAP2-13	0.007352941	Shared protein domains	PFAM
+ERF1A	ERF105	0.007352941	Shared protein domains	PFAM
+ERF1A	RAP2-4	0.007352941	Shared protein domains	PFAM
+ERF1A	ERF022	0.007352941	Shared protein domains	PFAM
+ERF1A	ERF096	0.007352941	Shared protein domains	PFAM
+ERF1A	ERF12	0.007352941	Shared protein domains	PFAM
+ERF6	DREB2D	0.007352941	Shared protein domains	PFAM
+ERF6	RAP2-13	0.007352941	Shared protein domains	PFAM
+ERF6	ERF105	0.007352941	Shared protein domains	PFAM
+ERF6	RAP2-4	0.007352941	Shared protein domains	PFAM
+ERF6	ERF022	0.007352941	Shared protein domains	PFAM
+ERF6	ERF096	0.007352941	Shared protein domains	PFAM
+ERF6	ERF12	0.007352941	Shared protein domains	PFAM
+ERF6	ERF1A	0.007352941	Shared protein domains	PFAM
+RAP2-13	DREB2D	0.0063118255	Shared protein domains	INTERPRO
+BPM1	BPM3	0.028505454	Shared protein domains	INTERPRO
+HDG1	ANL2	0.023056572	Shared protein domains	INTERPRO
+ERF105	DREB2D	0.0063118255	Shared protein domains	INTERPRO
+ERF105	RAP2-13	0.0069066067	Shared protein domains	INTERPRO
+RAP2-4	DREB2D	0.0063118255	Shared protein domains	INTERPRO
+RAP2-4	RAP2-13	0.0069066067	Shared protein domains	INTERPRO
+RAP2-4	ERF105	0.0069066067	Shared protein domains	INTERPRO
+ERF022	DREB2D	0.0063118255	Shared protein domains	INTERPRO
+ERF022	RAP2-13	0.0069066067	Shared protein domains	INTERPRO
+ERF022	ERF105	0.0069066067	Shared protein domains	INTERPRO
+ERF022	RAP2-4	0.0069066067	Shared protein domains	INTERPRO
+ERF096	DREB2D	0.0063118255	Shared protein domains	INTERPRO
+ERF096	RAP2-13	0.0069066067	Shared protein domains	INTERPRO
+ERF096	ERF105	0.0069066067	Shared protein domains	INTERPRO
+ERF096	RAP2-4	0.0069066067	Shared protein domains	INTERPRO
+ERF096	ERF022	0.0069066067	Shared protein domains	INTERPRO
+ERF12	DREB2D	0.0063118255	Shared protein domains	INTERPRO
+ERF12	RAP2-13	0.0069066067	Shared protein domains	INTERPRO
+ERF12	ERF105	0.0069066067	Shared protein domains	INTERPRO
+ERF12	RAP2-4	0.0069066067	Shared protein domains	INTERPRO
+ERF12	ERF022	0.0069066067	Shared protein domains	INTERPRO
+ERF12	ERF096	0.0069066067	Shared protein domains	INTERPRO
+ERF1A	DREB2D	0.0063118255	Shared protein domains	INTERPRO
+ERF1A	RAP2-13	0.0069066067	Shared protein domains	INTERPRO
+ERF1A	ERF105	0.0069066067	Shared protein domains	INTERPRO
+ERF1A	RAP2-4	0.0069066067	Shared protein domains	INTERPRO
+ERF1A	ERF022	0.0069066067	Shared protein domains	INTERPRO
+ERF1A	ERF096	0.0069066067	Shared protein domains	INTERPRO
+ERF1A	ERF12	0.0069066067	Shared protein domains	INTERPRO
+ERF6	DREB2D	0.0063118255	Shared protein domains	INTERPRO
+ERF6	RAP2-13	0.0069066067	Shared protein domains	INTERPRO
+ERF6	ERF105	0.0069066067	Shared protein domains	INTERPRO
+ERF6	RAP2-4	0.0069066067	Shared protein domains	INTERPRO
+ERF6	ERF022	0.0069066067	Shared protein domains	INTERPRO
+ERF6	ERF096	0.0069066067	Shared protein domains	INTERPRO
+ERF6	ERF12	0.0069066067	Shared protein domains	INTERPRO
+ERF6	ERF1A	0.0069066067	Shared protein domains	INTERPRO
